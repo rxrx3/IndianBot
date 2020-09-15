@@ -10,7 +10,7 @@ async def _(event):
     animation_ttl = range(0, 549755813888)
  
 
-    await event.edit("marte")
+    await event.edit("🔵🔴 🔴🔵")
     animation_chars = [
             "`🔵🔴 **MARTE PICCOLA KAWAII** 🔴🔵`",
             "`🔴🔵 MARTE PICCOLA KAWAII 🔵🔴`",
